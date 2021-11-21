@@ -1,3 +1,5 @@
 # Hi! 👋 I’m Salifu Sani Rich
-I'm a Software Engineer and UI/UX Enthusiast based in Lagos, Nigeria. 
-I write code that works on the web and occasionally design user interfaces and user experience.
+
+I'm a software engineer with a keen interest in product engineering. 
+I enjoy building user interfaces and improving user experience on the Web. 
+I am passionate about opensource.
